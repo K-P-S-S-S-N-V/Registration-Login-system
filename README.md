@@ -67,15 +67,15 @@ If any corrections or any missing logics or missing part contact me at my mentio
 ***references: Google.com, Python.org, Github.com, Youtube.com**
 
 Thankyou,
-**Poorna Venkatesh kadali**
-upcoming Data Scientist
+Poorna Venkatesh kadali
+upcoming Data Scientist,
 Mastering in Data Science - GUVI-GreekNetwork - Certified by IIT-Madras
 
 **You can also contact me for doubts in:**
-python
-MongoDB
-Pandas
-Numpy
+python,
+MongoDB,
+Pandas,
+Numpy,
 R - Programming and 
 many in upcoming days
 
